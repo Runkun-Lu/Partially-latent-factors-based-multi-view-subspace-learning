@@ -1,0 +1,11 @@
+slycot
+control
+cvxpy
+scipy
+pandas
+scikit-learn
+matplotlib
+
+
+
+
